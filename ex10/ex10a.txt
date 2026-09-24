@@ -1,4 +1,4 @@
-PS C:\Users\jagat> cd "c:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab\ex10\ex10a\" ; if ($?) { gcc ex10a.c -o ex10a } ; if ($?) { .\ex10a }
+
 
 --Linear Search--
 Enter the element to search: 45
